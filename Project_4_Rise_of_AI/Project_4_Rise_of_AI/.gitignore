@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.obj
+.DS_Store
+.vscode/
+# The supplied soundtrack has not been licensed for public redistribution.
+assets/audio/prophecy.mp3
